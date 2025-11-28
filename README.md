@@ -36,7 +36,7 @@ Projeleri yerel ortamınızda çalıştırmak için:
 
 1.  Repoyu klonlayın:
     ```bash
-    git clone https://github.com/Omer-Murat/Csharp_odev
+    git clone https://github.com/Omer-Murat/Csharp_odev.git
     ```
 2.  İlgili ünitenin klasörüne gidin (Örn: Unit_4):
     ```bash
